@@ -1,6 +1,6 @@
 /* Ensure that the demo table scrolls */
 th, td { white-space: nowrap; }
 div.dataTables_wrapper {
-    width: 400px;
+    width: 1200px;
     margin: 0 auto;
 }
