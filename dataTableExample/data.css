@@ -1,5 +1,5 @@
 /* Ensure that the demo table scrolls */
-th, td { white-space: nowrap; }
+th, td { white-space: nowrap; background-color: #fff; }
 div.dataTables_wrapper {
     width: 1200px;
     margin: 0 auto;
